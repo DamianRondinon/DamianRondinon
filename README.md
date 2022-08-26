@@ -1,6 +1,6 @@
 # Hi there, I'm Damián! 👋
 
-## Contact me:
+### Contact me:
 
 <a href="https://www.linkedin.com/in/damian-rondinon/" >![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
@@ -10,7 +10,7 @@
 
 <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=DamianRondinon&theme=highcontrast)](https://git.io/streak-stats"/>
 
-## Technologies:
+### Technologies:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
