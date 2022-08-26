@@ -1,5 +1,7 @@
 # Hi there, I'm Damián! 👋
 
+Contact me
+
 <a href="https://www.linkedin.com/in/damian-rondinon/" >![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
 <a href="mailto:damianrondinon@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
@@ -7,6 +9,8 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamianRondinon&layout=compact" />
 
 <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=DamianRondinon&theme=highcontrast)](https://git.io/streak-stats"/>
+
+Technologies
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
